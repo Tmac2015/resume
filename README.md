@@ -1,37 +1,29 @@
-# resume
+![ogp image](https://github.com/ykob/tplh.net-2019/blob/master/public/img/ogp_image.png)
 
-#### 介绍
-3d的简历
+# tplh.net
 
-#### 软件架构
-软件架构说明
+https://www.tplh.net/  
+I'm a Web Developer. Just love World-Wide-Web.  
+I explored what my identity was and tried to express it as much as possible using whatever technology I have now.
 
+## License
 
-#### 安装教程
+Copyright (c) 2020 Yoichi Kobayashi  
+You can refer to these codes and materials, but can't use or quote these for your projects for free.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Credits
 
-#### 使用说明
+- 3D Models : CGTrader
+  - [Low Poly Skull Human VR / AR / low-poly 3d model](https://www.cgtrader.com/3d-models/character/anatomy/low-poly-skull-human)
+  - [Petals pack 3D model](https://www.cgtrader.com/3d-models/plant/flower/flying-rose-petals)
+- Design : Shunsuke Iseki
+- Development : Yoichi Kobayashi
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## Award-Winning
 
-#### 参与贡献
+- [FWA FOTD / March 14th, 2020](https://thefwa.com/cases/yoichi-kobayashi)
+- [Awwwards SOTD / March 23rd, 2020](https://www.awwwards.com/sites/yoichi-kobayashi)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+## Misc
 
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Follow Yoichi Kobayashi: [Web](http://www.tplh.net/), [Twitter](https://twitter.com/ykob0123)
