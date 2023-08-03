@@ -1,13 +1,13 @@
 <script>
 export default {
-  name: 'GlobalTitle',
+  name: "GlobalTitle",
   computed: {
     classnames() {
       return {
-        'is-shown': this.$store.state.isShownUI === true
+        "is-shown": this.$store.state.isShownUI === true,
       };
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -20,10 +20,10 @@ export default {
       )
       .p-global-title__typo.p-global-title__typo--1
         .p-global-title__typo-in.p-global-title__typo-in--1
-          |Y
+          |T
       .p-global-title__typo.p-global-title__typo--2
         .p-global-title__typo-in.p-global-title__typo-in--2
-          |K
+          |W
 </template>
 
 <style lang="scss">

@@ -1,12 +1,12 @@
 <script>
 export default {
-  name: 'HomeHeading'
+  name: "HomeHeading",
 };
 </script>
 
 <template lang="pug">
   h1.p-home-heading
-    |Yoichi Kobayashi
+    |TMac
     br
     |Front-end &amp; Creative Developer
 </template>

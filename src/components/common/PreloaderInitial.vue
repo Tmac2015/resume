@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'PreloaderInitial'
+  name: "PreloaderInitial",
 };
 </script>
 
@@ -8,10 +8,10 @@ export default {
   .preloader-initial
     .preloader-initial__typo.preloader-initial__typo--1
       .preloader-initial__typo-in.preloader-initial__typo-in--1
-        |Y
+        |T
     .preloader-initial__typo.preloader-initial__typo--2
       .preloader-initial__typo-in.preloader-initial__typo-in--2
-        |K
+        |W
 </template>
 
 <style lang="scss">

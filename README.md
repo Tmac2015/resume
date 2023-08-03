@@ -8,7 +8,7 @@ I explored what my identity was and tried to express it as much as possible usin
 
 ## License
 
-Copyright (c) 2020 Yoichi Kobayashi  
+Copyright (c) 2020 TMac  
 You can refer to these codes and materials, but can't use or quote these for your projects for free.
 
 ## Credits
@@ -17,7 +17,7 @@ You can refer to these codes and materials, but can't use or quote these for you
   - [Low Poly Skull Human VR / AR / low-poly 3d model](https://www.cgtrader.com/3d-models/character/anatomy/low-poly-skull-human)
   - [Petals pack 3D model](https://www.cgtrader.com/3d-models/plant/flower/flying-rose-petals)
 - Design : Shunsuke Iseki
-- Development : Yoichi Kobayashi
+- Development : TMac
 
 ## Award-Winning
 
@@ -26,4 +26,4 @@ You can refer to these codes and materials, but can't use or quote these for you
 
 ## Misc
 
-Follow Yoichi Kobayashi: [Web](http://www.tplh.net/), [Twitter](https://twitter.com/ykob0123)
+Follow TMac: [Web](http://www.tplh.net/), [Twitter](https://twitter.com/ykob0123)

@@ -12,7 +12,7 @@ module.exports = {
     }
   },
   pwa: {
-    name: 'Yoichi Kobayashi',
+    name: 'TMac',
     themeColor: '#1b191c',
     msTileColor: '#1b191c',
     appleMobileWebAppCapable: 'yes',

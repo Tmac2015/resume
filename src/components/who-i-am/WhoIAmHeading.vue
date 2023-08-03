@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'WhoIAmHeading'
+  name: "WhoIAmHeading",
 };
 </script>
 
@@ -8,9 +8,9 @@ export default {
   h1.p-whoiam-heading
     span.p-whoiam-heading__in
       span.p-whoiam-heading__row
-        |Yoichi
+        |TMac
       span.p-whoiam-heading__row
-        |Kobayashi
+        |WEI.TANG
 </template>
 
 <style lang="scss">

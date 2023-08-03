@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: 'WhoIAmThanks'
+  name: "WhoIAmThanks",
 };
 </script>
 
@@ -14,7 +14,7 @@ export default {
       br
       |Design : Shunsuke Iseki
       br
-      |Development : Yoichi Kobayashi
+      |Development : TMac
 </template>
 
 <style lang="scss">
