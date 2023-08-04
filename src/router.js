@@ -37,9 +37,9 @@ const router = new Router({
   ]
 });
 
-router.afterEach(to => {
-  /* global gtag */
-  gtag('config', 'UA-568033-1', { page_path: to.path });
-});
+// router.afterEach(to => {
+//   /* global gtag */
+//   // gtag('config', 'UA-568033-1', { page_path: to.path });
+// });
 
 export default router;
