@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a3bf25c05263e6261a73c40958b406bc.js"
+  "precache-manifest.237d4f4d3c10872aeed55bae4cb5a7b9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tplh.net-2019"});
