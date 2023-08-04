@@ -17,7 +17,7 @@ importScripts(
   "precache-manifest.ad08ccb6c7b8130c883bb24df2ae41d8.js"
 );
 
-// workbox.core.setCacheNameDetails({ prefix: "tplh.net-2019" });
+// workbox.core.setCacheNameDetails({prefix: "tplh.net-2019"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
