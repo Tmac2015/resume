@@ -1,45 +1,45 @@
 <script>
-import { sleep } from '@ykob/js-util';
+import { sleep } from "@ykob/js-util";
 
-import store from '@/store';
-import ErrorMessage from '@/components/error/ErrorMessage.vue';
+import store from "@/store";
+import ErrorMessage from "@/components/error/ErrorMessage.vue";
 
 export default {
-  name: 'error-404',
+  name: "error-404",
   metaInfo: {
-    title: '404 File not found / ',
+    title: "404 File not found / ",
     meta: [
       {
-        name: 'description',
-        content: ''
-      }
-    ]
+        name: "description",
+        content: "",
+      },
+    ],
   },
   components: {
-    ErrorMessage
+    ErrorMessage,
   },
   beforeRouteEnter(to, from, next) {
-    store.commit('transit', {
-      globalId: 0
+    store.commit("transit", {
+      globalId: 0,
     });
     next();
   },
   async mounted() {
     const { commit } = this.$store;
 
-    commit('changeBackground', {
+    commit("changeBackground", {
       isHome: true,
-      hasDelay: false
+      hasDelay: false,
     });
-    commit('showHomeObjs', false);
-    commit('showWorksObjs', {
+    commit("showHomeObjs", false);
+    commit("showWorksObjs", {
       index: 0,
-      direction: -1
+      direction: -1,
     });
-    commit('showWhoIAmObjs', false);
+    commit("showWhoIAmObjs", false);
     await sleep(500);
-    commit('showUI');
-  }
+    commit("showUI");
+  },
 };
 </script>
 

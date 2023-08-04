@@ -10,10 +10,6 @@ export default {
     h2.p-whoiam-credit__heading
       |Credits
     p.p-whoiam-credit__text
-      |3D MODELS : CGTrader
-      br
-      |Design : Shunsuke Iseki
-      br
       |Development : TMac
 </template>
 

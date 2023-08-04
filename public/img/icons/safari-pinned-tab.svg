@@ -7,16 +7,20 @@
 <metadata>
 Created by potrace 1.11, written by Peter Selinger 2001-2013
 </metadata>
-<g transform="translate(0.000000,260.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M0 1300 l0 -1300 1300 0 1300 0 0 1300 0 1300 -1300 0 -1300 0 0
--1300z m1730 585 c0 -11 -13 -15 -55 -15 -85 0 -153 -18 -191 -52 -52 -46 -64
--101 -64 -300 l0 -168 178 -238 c98 -130 204 -260 235 -289 65 -59 136 -96
-220 -113 37 -7 57 -16 57 -26 0 -12 -49 -14 -320 -14 -278 0 -320 2 -320 15 0
-12 13 15 58 15 141 0 218 63 197 161 -5 23 -262 384 -315 442 -7 8 -338 -446
--360 -495 -31 -67 20 -108 135 -108 51 0 65 -3 65 -15 0 -13 -51 -15 -395 -15
--328 0 -395 2 -395 14 0 9 20 16 62 20 88 10 146 39 205 99 28 29 137 171 242
-316 l191 263 0 144 c0 79 -5 167 -11 196 -22 101 -100 148 -244 148 -42 0 -55
-4 -55 15 0 13 56 15 440 15 384 0 440 -2 440 -15z"/>
-</g>
+<g fill="#000000" stroke="none">
+        <text transform="rotate(-36.4434 64.8576 56.582)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_1" y="66.19391" x="56.31367" stroke-width="0" stroke="#000" fill="#dcc5a2">A</text>
+        <text transform="rotate(-29.1967 93.3053 38.9602)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_2" y="48.57209" x="83.5474" stroke-width="0" fill="#dcc5a2">N</text>
+        <text transform="rotate(-56.598 42.7642 90.2166) matrix(1.05788 0 0 1.05041 -2.42505 -3.98348)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_3" y="99.30368" x="35.83849" stroke-width="0" fill="#dcc5a2">T</text>
+        <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_4" y="42.16415" x="119.59204" stroke-width="0" stroke="#000" fill="#dcc5a2">G</text>
+        <text transform="rotate(50.734 46.2262 174.328)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_7" y="183.93973" x="42.6968" stroke-width="0" stroke="#000" fill="#dcc5a2">I</text>
+        <text transform="matrix(4.04981 0 0 3.99092 -418.476 -682.362)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_8" y="225.32373" x="139.19172" stroke-width="0" fill="#dcc5a2">.</text>
+        <text transform="rotate(133.117 183.404 191.95)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_9" y="201.56156" x="176.46247" stroke-width="0" stroke="#000" fill="#dcc5a2">T</text>
+        <text transform="rotate(107.613 213.02 157.507)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_10" y="167.11891" x="201.29323" stroke-width="0" stroke="#000" fill="#dcc5a2">M</text>
+        <text transform="rotate(70.5646 214.643 114.253)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_11" y="123.86534" x="206.09917" stroke-width="0" stroke="#000" fill="#dcc5a2">A</text>
+        <text transform="rotate(40.1732 201.31 73.4028)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_12" y="83.01474" x="193.2833" stroke-width="0" stroke="#000" fill="#dcc5a2">C</text>
+        <text transform="rotate(-156.695 110.247 219.183)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_16" y="228.79529" x="97.96526" stroke-width="0" stroke="#000" fill="#dcc5a2">W</text>
+        <text transform="rotate(-140.274 71.7244 202.363)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_17" y="211.97445" x="65.12459" stroke-width="0" stroke="#000" fill="#dcc5a2">E</text>
+        <text transform="matrix(4.04981 0 0 3.99092 -418.476 -682.362)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_18" y="183.77809" x="141.96071" stroke-width="0" fill="#dcc5a2">.</text>
+        <text transform="matrix(4.04981 0 0 3.99092 -418.476 -682.362)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_19" y="206.6583" x="109.12838" stroke-width="0" fill="#dcc5a2">.</text>
+      </g>
 </svg>
