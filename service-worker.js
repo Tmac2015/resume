@@ -11,13 +11,13 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+// importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
   "precache-manifest.ad08ccb6c7b8130c883bb24df2ae41d8.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "tplh.net-2019"});
+// workbox.core.setCacheNameDetails({ prefix: "tplh.net-2019" });
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
